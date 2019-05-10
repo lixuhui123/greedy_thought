@@ -117,7 +117,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bag_max.c" />
+    <ClCompile Include="guo_he.c" />
     <ClCompile Include="tan_xin.c" />
+    <ClCompile Include="wan_shi_zi.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

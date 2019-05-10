@@ -21,5 +21,11 @@
     <ClCompile Include="bag_max.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="guo_he.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wan_shi_zi.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
